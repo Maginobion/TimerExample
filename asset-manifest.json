@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maginobion.github.io/csb-ebii2/static/css/main.d8db06b0.chunk.css",
+    "main.js": "https://maginobion.github.io/csb-ebii2/static/js/main.46661c79.chunk.js",
+    "main.js.map": "https://maginobion.github.io/csb-ebii2/static/js/main.46661c79.chunk.js.map",
+    "runtime-main.js": "https://maginobion.github.io/csb-ebii2/static/js/runtime-main.853507a9.js",
+    "runtime-main.js.map": "https://maginobion.github.io/csb-ebii2/static/js/runtime-main.853507a9.js.map",
+    "static/js/2.cd5d3b56.chunk.js": "https://maginobion.github.io/csb-ebii2/static/js/2.cd5d3b56.chunk.js",
+    "static/js/2.cd5d3b56.chunk.js.map": "https://maginobion.github.io/csb-ebii2/static/js/2.cd5d3b56.chunk.js.map",
+    "index.html": "https://maginobion.github.io/csb-ebii2/index.html",
+    "static/css/main.d8db06b0.chunk.css.map": "https://maginobion.github.io/csb-ebii2/static/css/main.d8db06b0.chunk.css.map",
+    "static/js/2.cd5d3b56.chunk.js.LICENSE.txt": "https://maginobion.github.io/csb-ebii2/static/js/2.cd5d3b56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.853507a9.js",
+    "static/js/2.cd5d3b56.chunk.js",
+    "static/css/main.d8db06b0.chunk.css",
+    "static/js/main.46661c79.chunk.js"
+  ]
+}
